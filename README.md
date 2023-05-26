@@ -2,9 +2,6 @@
 
 This boilerplate is set up to be deployed on Netlify and you can directly deploy this project by clicking the button below:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/alchemyplatform/netlify-alchemy-nft-explorer-template)
-
-
 ![image](https://user-images.githubusercontent.com/72762629/235919616-ba92fb9e-c171-4d7f-a928-862c80009075.png)
 
 ## Resources
